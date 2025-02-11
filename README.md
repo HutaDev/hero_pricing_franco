@@ -1,4 +1,4 @@
-# Hero form Yeni
+# Hero pricing Franco
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/HutaDev/hero_pricing_franco?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/HutaDev/hero_pricing_franco?style=for-the-badge)
